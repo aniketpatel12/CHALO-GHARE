@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "91017538369",
+    "firebase_url": "https://chaloghare.firebaseio.com",
+    "project_id": "chaloghare",
+    "storage_bucket": "chaloghare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91017538369:android:8a61e5380e283f65",
+        "android_client_info": {
+          "package_name": "com.company.CHALOGHARE"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91017538369-2o55j9i87dn17egnc7up3f1ll266bkfm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.CHALOGHARE",
+            "certificate_hash": "50c02fd75e5b9ac4bff622ec30a9b14282318c3e"
+          }
+        },
+        {
+          "client_id": "91017538369-fs31ddtvhmadnuvv7bmsqtfidf712f2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXRYkhw9lvjyuF8PXqnkZf_h7_OC1p2RQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91017538369-fs31ddtvhmadnuvv7bmsqtfidf712f2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
